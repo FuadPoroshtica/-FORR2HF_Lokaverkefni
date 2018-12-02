@@ -1,2 +1,2 @@
-# -FORR2HF_Lokaverkefni
+# FORR2HF_Lokaverkefni
 Lokaverkefni
