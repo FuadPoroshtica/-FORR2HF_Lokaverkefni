@@ -1,3 +1,3 @@
-# forritun3-lokaverkefni
+# Forritun 3 Lokaverkefni 
 
-Þetta er tölvuleikur sem ég ákvað að gera fyrir lokaverkefnið í skólanum
+FORR2HF05CU - Lokaverkefni - 20% 
